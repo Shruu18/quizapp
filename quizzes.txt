@@ -1,0 +1,32 @@
+1,Java Basics,1,What is Java?,Programming Language|Animal|Car|Game,1
+1,Java Basics,2,Which keyword is used for inheritance?,extends|implements|import|package,1
+1,Java Basics,3,Which company originally developed Java?,Microsoft|Sun Microsystems|Apple|IBM,2
+1,Java Basics,4,Which method is entry point of Java program?,start()|run()|main()|init(),3
+1,Java Basics,5,Which of these is not a primitive type?,int|float|String|char,3
+1,Java Basics,6,Which keyword prevents method overriding?,static|final|private|abstract,2
+1,Java Basics,7,Which package is used for JDBC?,java.io|java.sql|java.util|java.net,2
+1,Java Basics,8,Which collection does not allow duplicates?,List|ArrayList|Set|Vector,3
+1,Java Basics,9,Size of int in Java?,2 bytes|4 bytes|8 bytes|Depends on OS,2
+1,Java Basics,10,Which feature was added in Java 8?,Generics|Lambda Expressions|AWT|Applet,2
+
+2,Python Basics,1,Who developed Python?,James Gosling|Guido van Rossum|Dennis Ritchie|Bjarne Stroustrup,2
+2,Python Basics,2,Python is which type of language?,Compiled only|Interpreted|Assembly|Machine,2
+2,Python Basics,3,Which symbol is used for comments?,//|#|/* */|--,2
+2,Python Basics,4,Which data type is immutable?,List|Dictionary|Set|Tuple,4
+2,Python Basics,5,Which keyword defines a function?,function|define|def|fun,3
+2,Python Basics,6,Which of these is used for loops?,repeat|loop|for|iterate,3
+2,Python Basics,7,Which library is used for data analysis?,numpy|pandas|matplotlib|All of these,4
+2,Python Basics,8,File extension of Python file?,.java|.py|.class|.cpp,2
+2,Python Basics,9,Which operator is used for exponentiation?,^|**|%|//,2
+2,Python Basics,10,Which keyword handles exceptions?,catch|error|try|handle,3
+
+3,Data Science,1,Which language is most used in Data Science?,Java|C++|Python|Swift,3
+3,Data Science,2,Which library is used for numerical computing?,NumPy|React|TensorFlow|Bootstrap,1
+3,Data Science,3,Which visualization library is popular in Python?,Matplotlib|Laravel|Spring|Hibernate,1
+3,Data Science,4,What does CSV stand for?,Common Separated Values|Comma Separated Values|Column Sorted Values|Character Separated Values,2
+3,Data Science,5,Which technique is used for prediction?,Regression|Sorting|Searching|Compiling,1
+3,Data Science,6,Which is supervised learning?,Clustering|Regression|Dimensionality Reduction|Association Rules,2
+3,Data Science,7,Which library is used for machine learning in Python?,Scikit-learn|Flask|Django|Seaborn,1
+3,Data Science,8,Which metric measures classification accuracy?,Mean|Accuracy Score|Variance|Deviation,2
+3,Data Science,9,Which database is commonly used in data projects?,MySQL|Photoshop|Chrome|Excel Paint,1
+3,Data Science,10,What is data cleaning?,Deleting data|Formatting disk|Removing errors from data|Compressing files,3
